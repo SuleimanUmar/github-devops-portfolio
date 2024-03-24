@@ -13,7 +13,7 @@ I am a passionate and motivated aspiring DevOps engineer with a strong interest 
 - Containerization: Docker, Kubernetes
 - Programming Languages: Python, Bash
 - Continuous Integration/Continuous Deployment (CI/CD): Azure DevOps, GitLab CI/CD
-- Monitoring and Logging: Prometheus, Grafana, ELK Stack
+- Monitoring and Logging: AWS CloudWatch & Azure Monitor
 - Version Control Systems: Git
 
 ## Interests
